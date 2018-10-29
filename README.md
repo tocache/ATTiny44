@@ -12,5 +12,7 @@ You have to put the following URL (https://raw.githubusercontent.com/damellis/at
 
 http://archive.fabacademy.org/2017/fablabkamplintfort/students/390/week06.html
 
+http://archive.fabacademy.org/archives/2017/fablabuae/students/154/week6/week6.html
+
 14-10-2018: Prototype made using SMT devices, ATTiny44 running on 20MHz crystal resonator, pin 5 connected to a LED through a 330ohm resistor, pin10 connected to a button (high-active). Following is how Arduino label those pins in its IDE:<br>
 <img src="ATtiny44-84.png"><br>
